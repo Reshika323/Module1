@@ -13,7 +13,6 @@ To write a Python program that evaluates and prints the results of boolean and a
 6. Print the value of `b` with the label "b is".
 7. Print the value of `c` with the label "c:".
 8. Print the value of `d` with the label "d:".
-
 ## 💻 Program
 a = (0 == True)    
 b = (False== False)    
@@ -23,9 +22,7 @@ print("a is", a)
 print("b is", b)     
 print("c:", c)      
 print("d:", d)     
-
 ## Output
 ![image](https://github.com/user-attachments/assets/8ed88aba-3dcb-4535-aba2-3ec020c6c7c2)
-
 ## Result
 Thus the program has been successfully executed
